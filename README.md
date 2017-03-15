@@ -1,4 +1,4 @@
-# Self_Stabilizing_Selfie_Stick
+# Self Stabilizing Selfie Stick
 Self Stablizing Selfie Stick
 
 This is A Pen and Paper Design of a Self Stablizing Selfie Stick.
